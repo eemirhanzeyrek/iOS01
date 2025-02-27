@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Name1",
+    "username": "Username1",
+    "email": "email1@email.com",
+    "address": {
+      "street": "Street1",
+      "suite": "Apt. 1",
+      "city": "City1",
+      "zipcode": "11111-1111",
+      "geo": {
+        "lat": "-11.1111",
+        "lng": "11.1111"
+      }
+    },
+    "phone": "1-111-111-1111 x11111",
+    "website": "website1.org",
+    "company": {
+      "name": "Company1-LLC",
+      "catchPhrase": "Client-server1",
+      "bs": "Real-time1"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Name2",
+    "username": "Username2",
+    "email": "email2@email.com",
+    "address": {
+      "street": "Street2",
+      "suite": "Apt. 2",
+      "city": "City2",
+      "zipcode": "22222-2222",
+      "geo": {
+        "lat": "-22.2222",
+        "lng": "-22.2222"
+      }
+    },
+    "phone": "222-222-2222 x22222",
+    "website": "website2.org",
+    "company": {
+      "name": "Company2-LLC",
+      "catchPhrase": "Client-server2",
+      "bs": "Real-time2"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Name3",
+    "username": "Username3",
+    "email": "email3@email.com",
+    "address": {
+      "street": "Street3",
+      "suite": "Apt. 3",
+      "city": "City3",
+      "zipcode": "33333-3333",
+      "geo": {
+        "lat": "-33.3333",
+        "lng": "33.3333"
+      }
+    },
+    "phone": "3-333-333-3333",
+    "website": "website3.org",
+    "company": {
+      "name": "Company3-LLC",
+      "catchPhrase": "Client-server3",
+      "bs": "Real-time3"
+    }
+  }
+]
